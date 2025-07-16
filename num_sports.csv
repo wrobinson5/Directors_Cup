@@ -1,0 +1,226 @@
+,School,Season,Num_Sports
+0,Stanford,2015,36
+1,UCLA,2015,25
+2,USC,2015,21
+3,Florida,2015,27
+4,North Carolina,2015,27
+5,Virginia,2015,25
+6,Ohio State,2015,36
+7,Penn State,2015,31
+8,Texas,2015,20
+9,Notre Dame,2015,26
+10,Florida State,2015,21
+11,California,2015,28
+12,Oregon,2015,23
+13,Georgia,2015,22
+14,LSU,2015,21
+15,Arkansas,2015,19
+16,Texas A&M,2015,20
+17,Wisconsin,2015,26
+18,Michigan,2015,23
+19,Duke,2015,27
+20,Oklahoma,2015,23
+21,Kentucky,2015,22
+22,Baylor,2015,18
+23,Washington,2015,0
+24,Alabama,2015,21
+25,Stanford,2016,36
+26,Ohio State,2016,36
+27,Michigan,2016,29
+28,USC,2016,21
+29,Florida,2016,21
+30,UCLA,2016,27
+31,North Carolina,2016,27
+32,Virginia,2016,25
+33,Texas,2016,20
+34,Oregon,2016,23
+35,California,2016,37
+36,Texas A&M,2016,20
+37,Oklahoma State,2016,17
+38,Washington,2016,21
+39,Georgia,2016,29
+40,Oklahoma,2016,20
+41,Notre Dame,2016,26
+42,Minnesota,2016,21
+43,LSU,2016,21
+44,Penn State,2016,31
+45,Syracuse,2016,20
+46,Florida State,2016,14
+47,Arkansas,2016,19
+48,Duke,2016,23
+49,Arizona,2016,23
+50,Stanford,2017,36
+51,Ohio State,2017,36
+52,Florida,2017,21
+53,USC,2017,23
+54,North Carolina,2017,28
+55,Michigan,2017,14
+56,Texas,2017,20
+57,Penn State,2017,31
+58,Oregon,2017,18
+59,Kentucky,2017,21
+60,UCLA,2017,25
+61,Texas A&M,2017,20
+62,Florida State,2017,22
+63,California,2017,30
+64,Georgia,2017,25
+65,Wisconsin,2017,23
+66,Oklahoma,2017,20
+67,LSU,2017,21
+68,Virginia,2017,24
+69,Arkansas,2017,19
+70,South Carolina,2017,24
+71,Washington,2017,0
+72,Notre Dame,2017,26
+73,Baylor,2017,18
+74,Alabama,2017,21
+75,Stanford,2018,36
+76,UCLA,2018,27
+77,Florida,2018,22
+78,USC,2018,23
+79,Texas,2018,20
+80,Michigan,2018,29
+81,Ohio State,2018,36
+82,Georgia,2018,21
+83,Florida State,2018,17
+84,Texas A&M,2018,21
+85,Duke,2018,27
+86,Penn State,2018,31
+87,North Carolina,2018,28
+88,Alabama,2018,22
+89,North Carolina State,2018,22
+90,Arkansas,2018,19
+91,Kentucky,2018,24
+92,Auburn,2018,21
+93,Minnesota,2018,21
+94,California,2018,27
+95,Virginia,2018,32
+96,Notre Dame,2018,26
+97,Wisconsin,2018,23
+98,Oregon,2018,14
+99,Oklahoma,2018,20
+100,Stanford,2019,36
+101,Michigan,2019,29
+102,Florida,2019,16
+103,Texas,2019,20
+104,USC,2019,21
+105,UCLA,2019,22
+106,Florida State,2019,22
+107,Virginia,2019,26
+108,Duke,2019,27
+109,North Carolina,2019,28
+110,LSU,2019,21
+111,Ohio State,2019,36
+112,Penn State,2019,31
+113,Kentucky,2019,22
+114,Texas A&M,2019,20
+115,Wisconsin,2019,23
+116,Notre Dame,2019,13
+117,California,2019,30
+118,Arizona State,2019,26
+119,Minnesota,2019,21
+120,Georgia,2019,22
+121,South Carolina,2019,21
+122,Arkansas,2019,20
+123,Washington,2019,23
+124,Tennessee,2019,21
+125,Texas,2021,20
+126,Stanford,2021,36
+127,Michigan,2021,29
+128,North Carolina,2021,1
+129,Florida,2021,21
+130,USC,2021,23
+131,Alabama,2021,23
+132,Arkansas,2021,13
+133,Ohio State,2021,36
+134,Georgia,2021,22
+135,Virginia,2021,26
+136,Kentucky,2021,16
+137,UCLA,2021,28
+138,Notre Dame,2021,15
+139,LSU,2021,21
+140,Florida State,2021,18
+141,BYU,2021,21
+142,Oklahoma State,2021,19
+143,Texas A&M,2021,20
+144,Arizona State,2021,20
+145,Duke,2021,27
+146,Ole Miss,2021,22
+147,North Carolina State,2021,22
+148,Oklahoma,2021,19
+149,Oregon,2021,23
+150,Texas,2022,23
+151,Stanford,2022,36
+152,Michigan,2022,27
+153,Ohio State,2022,36
+154,Florida,2022,21
+155,North Carolina,2022,28
+156,Arkansas,2022,19
+157,Notre Dame,2022,26
+158,Kentucky,2022,23
+159,Oklahoma,2022,19
+160,Virginia,2022,24
+161,USC,2022,23
+162,Tennessee,2022,16
+163,Florida State,2022,22
+164,UCLA,2022,25
+165,LSU,2022,21
+166,North Carolina State,2022,22
+167,Princeton,2022,37
+168,Georgia,2022,26
+169,Ole Miss,2022,17
+170,Duke,2022,27
+171,Alabama,2022,22
+172,Oklahoma State,2022,19
+173,Wisconsin,2022,23
+174,Texas A&M,2022,20
+175,Stanford,2023,36
+176,Texas,2023,21
+177,Ohio State,2023,38
+178,Virginia,2023,23
+179,Florida,2023,21
+180,Tennessee,2023,18
+181,Georgia,2023,21
+182,North Carolina,2023,24
+183,LSU,2023,21
+184,USC,2023,23
+185,Michigan,2023,29
+186,Alabama,2023,22
+187,Arkansas,2023,22
+188,UCLA,2023,27
+189,Penn State,2023,31
+190,Duke,2023,21
+191,Florida State,2023,21
+192,Kentucky,2023,22
+193,North Carolina State,2023,22
+194,Notre Dame,2023,26
+195,Washington,2023,21
+196,California,2023,22
+197,Oklahoma,2023,19
+198,Texas A&M,2023,23
+199,Oklahoma State,2023,19
+200,Texas,2024,21
+201,Stanford,2024,27
+202,Tennessee,2024,16
+203,Florida,2024,21
+204,Virginia,2024,23
+205,Texas A&M,2024,18
+206,North Carolina,2024,17
+207,Michigan,2024,29
+208,Alabama,2024,22
+209,UCLA,2024,24
+210,Notre Dame,2024,24
+211,Florida State,2024,18
+212,LSU,2024,21
+213,USC,2024,21
+214,Ohio State,2024,36
+215,Georgia,2024,21
+216,Duke,2024,29
+217,Arkansas,2024,19
+218,Oklahoma State,2024,18
+219,California,2024,28
+220,North Carolina State,2024,22
+221,Nebraska,2024,24
+222,Penn State,2024,31
+223,Oklahoma,2024,19
+224,Wisconsin,2024,25
